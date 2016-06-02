@@ -16,3 +16,10 @@ Generalized linear models –  Survival analysis <br />
 Time series analysis <br />
 Bayesian methods <br />
 Data mining techniques <br />
+
+**HW1**<br />
+Robust Statistcs <br />
+1. Jackknife method <br />
+2. Monte Carlo Method <br />
+3. Bootstrap Method <br />
+4. Randomization Test <br />
