@@ -5,10 +5,12 @@ Coursework for Advanced data analysis STAT 4201 at Columbia university
 Emphasis on hands-on experience with data analysis, involving case studies and using common statistical packages.
 
 
-Topics: 
-•  Exploratory data analysis
-•  Basic stat procedures. Model formulation, goodness-of-fit testing
-•  Standard and non-standard statistical procedures, including:  –  Linear regression,  –  Analysis of variance
+**Topics: **<br />
+•  Exploratory data analysis<br />
+•  Basic stat procedures. Model formulation, goodness-of-fit testing<br />
+•  Standard and non-standard statistical procedures, including: <br />
+..- Linear regression <br />
+..-analysis of variance
    –  Nonlinear regression
    –  Generalized linear models –  Survival analysis
    –  Time series analysis
