@@ -23,3 +23,11 @@ Robust Statistcs <br />
 2. Monte Carlo Method <br />
 3. Bootstrap Method <br />
 4. Randomization Test <br />
+
+**HW2**<br />
+Consider the crabs data frame in R library MASS which has 200 rows and 8 columns, describing 5 morphological measurements on 50 crabs each of two color forms ("B" or "O" for blue or orange) and both sexes, of the species Leptograpsus variegatus collected at Fremantle, W. Australia. data(crabs, package="MASS")<br />
+Determine whether there is a significant difference between blue and orange crabs in mean carapace length (mm) [CL] using each of the following procedures:
+1. A parametric procedure
+2. A non-parametric procedure 
+3. A re-sampling procedure
+
