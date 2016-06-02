@@ -6,13 +6,13 @@ Emphasis on hands-on experience with data analysis, involving case studies and u
 
 
 **Topics:** <br />
-*Exploratory data analysis<br />
-*Basic stat procedures. Model formulation, goodness-of-fit testing<br />
-* Standard and non-standard statistical procedures, including: <br />
+1. Exploratory data analysis<br />
+2. Basic stat procedures. Model formulation, goodness-of-fit testing<br />
+3. Standard and non-standard statistical procedures, including: <br />
 ..*Linear regression <br />
-..-analysis of variance  <br />
-..- Nonlinear regression <br />
-..- Generalized linear models –  Survival analysis <br />
-..-Time series analysis <br />
-..-Bayesian methods <br />
-..-Data mining techniques <br />
+..*analysis of variance  <br />
+..* Nonlinear regression <br />
+..* Generalized linear models –  Survival analysis <br />
+..*Time series analysis <br />
+..*Bayesian methods <br />
+..*Data mining techniques <br />
