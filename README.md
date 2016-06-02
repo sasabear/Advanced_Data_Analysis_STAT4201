@@ -4,6 +4,7 @@ Coursework for Advanced data analysis STAT 4201 at Columbia university
 **Course Objectives:**
 Emphasis on hands-on experience with data analysis, involving case studies and using common statistical packages.
 
+
 Topics: 
 •  Exploratory data analysis
 •  Basic stat procedures. Model formulation, goodness-of-fit testing
